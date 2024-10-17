@@ -7,7 +7,7 @@ Release:        2
 Group:          Development/Python
 Summary:        Python module for parsing mime-type names
 License:        MIT
-URL:            http://pypi.python.org/pypi/python-mimeparse
+URL:            https://pypi.python.org/pypi/python-mimeparse
 Source0:        http://pypi.python.org/packages/source/p/%{pypi_oname}/%{pypi_oname}-%{version}.tar.gz
 BuildArch:      noarch
 
