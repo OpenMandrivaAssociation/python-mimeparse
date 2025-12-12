@@ -3,7 +3,7 @@
 
 Name:           %{pypi_name}
 Version:        1.6.0
-Release:        2
+Release:        3
 Group:          Development/Python
 Summary:        Python module for parsing mime-type names
 License:        MIT
